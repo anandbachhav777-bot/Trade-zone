@@ -1,0 +1,8 @@
+{
+  "name": "Trade Zone",
+  "description": "Professional Android investment management application with role-based Admin and Customer dashboards, strict separate principal and monthly profit tracking, cash payment vouchers, transaction history, automated 5% profit calculations, reports, and PDF statements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
